@@ -1,0 +1,15 @@
+HTTrack3.49-1+htsswf+htsjava launched on Fri, 03 Apr 2020 00:12:45 at https://www.amazon.co.uk/HP-15s-fq0024na-15-6-Inch-Laptop/dp/B083T1XB4B/ref=sr_1_9?dchild=1&keywords=laptop+15.6&qid=1585865478&sr=8-9 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.amazon.co.uk/HP-15s-fq0024na-15-6-Inch-Laptop/dp/B083T1XB4B/ref=sr_1_9?dchild=1&keywords=laptop+15.6&qid=1585865478&sr=8-9 -O1 "C:\Users\Hugo\Desktop\limones\Amaz" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:14:08	Error: 	"Forbidden" (403) at link m.media-amazon.com/images/G/01/pantry/pantry-box-sprite-percent-large.png (from https://www.amazon.co.uk/HP-15s-fq0024na-15-6-Inch-Laptop/dp/B083T1XB4B/ref=sr_1_9?dchild=1&keywords=laptop+15.6&qid=1585865478&sr=8-9)
+00:14:17	Error: 	"Not Found" (404) at link https://images-eu.ssl-images-amazon.com/images/G/02/x-locale/communities/wishlist/add-to-wl-button-sprite.gif (from https://www.amazon.co.uk/HP-15s-fq0024na-15-6-Inch-Laptop/dp/B083T1XB4B/ref=sr_1_9?dchild=1&keywords=laptop+15.6&qid=1585865478&sr=8-9)
+00:14:17	Error: 	"Not Found" (404) at link https://images-eu.ssl-images-amazon.com/images/G/02/nav2/images/sprite-carousel-btns-stars2.png (from https://www.amazon.co.uk/HP-15s-fq0024na-15-6-Inch-Laptop/dp/B083T1XB4B/ref=sr_1_9?dchild=1&keywords=laptop+15.6&qid=1585865478&sr=8-9)
+00:19:29	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-1 mirror complete in 8 minutes 33 seconds : 302 links scanned, 298 files written (132268820 bytes overall) [29003842 bytes received at 56537 bytes/sec], 130518807 bytes transferred using HTTP compression in 139 files, ratio 20%, 2.4 requests per connection
+(4 errors, 0 warnings, 0 messages)
